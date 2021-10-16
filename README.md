@@ -1,4 +1,4 @@
-# Football Liga Portugal Bwin 2021-2022 season
+# Football Portuguese League 2021-2022 season
 In this project I collect data from Liga Portugal Bwin 2021-2022 season and transform it in Power BI to show league table, top goalscorers, fixtures, team stats.
 
 ![Football](https://user-images.githubusercontent.com/61323876/135532587-5dfb9b25-fa23-4ac8-b173-1fe0c7ce25d0.jpg)
